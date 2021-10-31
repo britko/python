@@ -1,10 +1,10 @@
-# python
+# python (자료구조, 백준, 클린코드)
 
-## 파이썬 연습(자료구조, 백준, 클린코드)
-
-## 파이썬 환경설정
+## 파이썬 환경설정⚙
 1. 파이썬 설치
+
 Stable Release Version ex) 3.8
+
 https://www.python.org/
 
 2. pipenv 설치
